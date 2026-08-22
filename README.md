@@ -1,33 +1,31 @@
 ```text
-                              ✧･ﾟ: *✧･ﾟ:*  ✧･ﾟ: *✧･ﾟ:*
+            ╔══════════════════════════════════════════════════════════╗
+║                                                            ║
+║                         ~ • ✧ • ~                         ║
+║                                                            ║
+║                        ദ്ദി(˵ •̀ ᴗ - ˵ )✧                    ║
+║                                                            ║
+║                    hey, i'm shanmugha 🎀                   ║
+║                    welcome to my terminal                  ║
+║                                                            ║
+║                         ~ • ✧ • ~                         ║
+║                                                            ║
+╠══════════════════════════════════════════════════════════╣
+║  whoami                                                    ║
+╠══════════════════════════════════════════════════════════╣
+║                                                            ║
+║   OS ..............  Windows 11                            ║
+║   Uptime ..........  22 years, 4 months                    ║
+║   Kernel ..........  MirAI B.Tech Student (AI Builder)     ║
+║   Shell ...........  Streamlit + Python                    ║
+║   Languages .......  Python, JavaScript, C++               ║
+║   Frameworks ......  Streamlit, React                      ║
+║   Hobbies .........  AI Engineering, Gaming, Robotics      ║
+║   Currently .......  Building an AI visual novel engine    ║
+║   Contact .........  your.email@example.com                ║
+║                                                            ║
+╚══════════════════════════════════════════════════════════╝                  
 
-                                    ,     ,
-                                   (\____/)
-                                    (_oo_)
-                                      (O)
-                                    __||__    \)
-                                 []/______\[] /
-                                 / \______/ \/
-                                /    /__\
-                               (\   /____\
-
-        
-                                ✧･ﾟ: *✧･ﾟ:*  ✧･ﾟ: *✧･ﾟ:*
-  
-                🐼  h i . i ' m   s h a n m u g h a priya  🎀
-```
-
-## whoami
-```yaml
-OS: ........... Windows 11
-Uptime: ........ 21 years, 10 months
-Kernel: ........ MirAI B.Tech Student (AI Builder Track)
-Shell: ......... Streamlit + Python
-Languages: ..... Python, JavaScript, C++,j]Java
-Frameworks: .... Streamlit, React
-Hobbies: ....... AI Engineering, Gaming, Robotics
-Currently: ..... Building an AI-powered visual novel engine 📖
-Contact: ....... shanmughapriya527@gmail.com
 ```
 
 ---
