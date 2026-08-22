@@ -1,16 +1,52 @@
-## Hi there 👋
+```text
+                                  .=###+.
+                                =#########-
+                              -##+.    .+##-
+                             +#+          +#=
+                            =#=            =#-
+                            ##              ##
+                            ##   ##.   .##  ##
+                            ##   ##.   .##  ##
+                            #+    -+.-+-    +#
+                            -#=    ....    =#-
+                             -#+.        .+#-
+                              .+##+.  .+##+.
+                                 .=####=.
+                              .+##+.  .+##+.
+                            -##+          +##-
+                           +#+   -#+  +#-   +#+
+                          .#+   =##=  =##=   +#.
+                          =#   -#+.    .+#-   #=
+                          #+  .#+        +#.  +#
+                          #+  ==          ==  +#
+                          =#=                =#=
+                           -##+.          .+##-
+                             .+####=--=####+.
 
-<!--
-**shanmughapriya200410/shanmughapriya200410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          🐼  h i . i ' m   s h a n m u g h a priya  🎀
+```
 
-Here are some ideas to get you started:
+## whoami
+```yaml
+OS: ........... Windows 11
+Uptime: ........ 21 years, 10 months
+Kernel: ........ MirAI B.Tech Student (AI Builder Track)
+Shell: ......... Streamlit + Python
+Languages: ..... Python, JavaScript, C++,j]Java
+Frameworks: .... Streamlit, React
+Hobbies: ....... AI Engineering, Gaming, Robotics
+Currently: ..... Building an AI-powered visual novel engine 📖
+Contact: ....... shanmughapriya527@gmail.com
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmughapriya200410&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmughapriya200410&layout=compact&theme=radical&hide_border=true)
+
+---
+
+<p align="center">🐼 thanks for stopping by my terminal 🎀</p>
